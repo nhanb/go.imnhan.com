@@ -1,2 +1,0 @@
-bloghead https://github.com/nhanb/bloghead
-shark https://github.com/nhanb/shark

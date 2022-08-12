@@ -8,7 +8,4 @@ My Go modules vanity domain, as inspired by
 > This way, you are not tied to a code host and can move without breaking your
 > users.
 
-To update modules list:
-
-- update modules.txt
-- `python3 generate.py`
+To update, edit the `MODULES` list in generate.py then run it.
