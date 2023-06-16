@@ -7,6 +7,7 @@ MODULES = [
     ("bloghead", "https://github.com/nhanb/bloghead"),
     ("iwpick", "https://github.com/nhanb/iwpick"),
     ("shark", "https://github.com/nhanb/shark"),
+    ("gorts", "https://github.com/nhanb/gorts"),
 ]
 
 HOME_TEMPLATE = """\
