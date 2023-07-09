@@ -5,9 +5,10 @@ from pathlib import Path
 
 MODULES = [
     ("bloghead", "https://github.com/nhanb/bloghead"),
+    ("gorts", "https://github.com/nhanb/gorts"),
     ("iwpick", "https://github.com/nhanb/iwpick"),
     ("shark", "https://github.com/nhanb/shark"),
-    ("gorts", "https://github.com/nhanb/gorts"),
+    ("webmaker2000", "https://github.com/nhanb/webmaker2000"),
 ]
 
 HOME_TEMPLATE = """\
