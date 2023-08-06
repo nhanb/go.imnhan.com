@@ -8,7 +8,7 @@ MODULES = [
     ("gorts", "https://github.com/nhanb/gorts"),
     ("iwpick", "https://github.com/nhanb/iwpick"),
     ("shark", "https://github.com/nhanb/shark"),
-    ("webmaker2000", "https://github.com/nhanb/webmaker2000"),
+    ("s4g", "https://github.com/nhanb/s4g"),
 ]
 
 HOME_TEMPLATE = """\
